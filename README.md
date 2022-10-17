@@ -14,7 +14,7 @@ Click on the button and answer the prompts to generate a password.
 
 ## Screenshots
 
-![Screenshot](./assets/Screenshot.jpg)
+![Screenshot](./Assets/Screenshot.jpg)
 
 ## Contributing
 
